@@ -1,4 +1,4 @@
-# List of dogs:
+# My List of dogs:
 1. Pitbull
 2. Chiwawa
 3. Husky
