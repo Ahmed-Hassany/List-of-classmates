@@ -6,5 +6,4 @@
 5. wolfy
 6. Polici
 7. Alaskan Mal.
-8. fredy
-9. Poppy
+8. Poppy
