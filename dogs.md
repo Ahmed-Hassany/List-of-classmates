@@ -6,4 +6,8 @@
 5. wolfy
 6. Polici
 7. Alaskan Mal.
+<<<<<<< HEAD
 8. goody
+=======
+8. Fredy
+>>>>>>> change-dog
