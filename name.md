@@ -1,5 +1,5 @@
 1- Hanna (Hard-working)
-2- Aiman (Awosome)
+2- Aiman (Awesome)
 3- Jalal (Jelious)
 4- Heba (hilarious)
 5- Ahmed (Amaziiiiiiing)
